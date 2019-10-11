@@ -321,7 +321,7 @@ header {
 .showcase {
   height: 50vh;
   background-color: #000;
-  background-image: url("https://github.com/cnbuysal/Cosmos-Blog/blob/gh-pages/img/showcase2.jpg?raw=true");
+  background-image: url("/img/showcase2.jpg");
   background-size: cover;
   background-position: center;
 }
