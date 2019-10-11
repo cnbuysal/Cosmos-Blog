@@ -321,7 +321,7 @@ header {
 .showcase {
   height: 50vh;
   background-color: #000;
-  background-image: url("../img/showcase2.jpg");
+  background-image: url("/img/showcase2.jpg");
   background-size: cover;
   background-position: center;
 }
