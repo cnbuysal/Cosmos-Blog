@@ -320,7 +320,8 @@ header {
 
 .showcase {
   height: 50vh;
-  background-image: url("/img/showcase2.JPG");
+  background-color: #000;
+  background-image: url("/img/showcase2.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -787,10 +788,6 @@ header {
 .internal-structure h5 {
   font-size: 21px;
 }
-
-
-
-
 
 .mercury-facts img {
   width: 80%;
