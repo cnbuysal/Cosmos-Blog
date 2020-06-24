@@ -1,4 +1,5 @@
 # Cosmos-Blog
+![GitHub Logo](img/logonew.jpg)
 
 ## What is Cosmos-Blog
 Cosmos-Blog is blog website about universe
